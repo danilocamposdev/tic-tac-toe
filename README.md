@@ -1,6 +1,6 @@
 # Tic-Tac-Toe C++
 
-Um Jogo da Velha (_Tic-Tac-Toe_) desenvolvido em C++ para rodar diretamente no terminal. O projeto foi estruturado utilizando os pilares da Programação Orientada a Objetos (POO) e o CMake foi utilizado como sistema de automação de build.
+Um Jogo da Velha (_Tic-Tac-Toe_) desenvolvido em C++ para rodar no terminal. O projeto foi estruturado utilizando os pilares da Programação Orientada a Objetos (POO) e o CMake foi utilizado como sistema de automação de build.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-blue.svg)
 ![CMake](https://img.shields.io/badge/CMake-green.svg)
